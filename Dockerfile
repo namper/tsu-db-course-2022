@@ -1,4 +1,4 @@
-FROM microsoft/mssql-server-linux:latest
+FROM mcr.microsoft.com/mssql/server:latest
 
 # Create work directory
 RUN mkdir -p /usr/work
