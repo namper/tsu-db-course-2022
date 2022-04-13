@@ -12,7 +12,7 @@ docker run \
 -d mssql:dev
 ```
 
-!!Make sure that container has at least 2gb ram available
+#### Make sure that container has at least 2gb ram available
 
 DataGrip:
     set driver to JTds
