@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/mssql/server:latest
+FROM mcr.microsoft.com/azure-sql-edge:latest
 
 # Create work directory
 RUN mkdir -p /usr/work
